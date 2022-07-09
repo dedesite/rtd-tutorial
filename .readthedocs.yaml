@@ -1,9 +1,10 @@
 version: 2
 
-# Optionally declare the Python requirements required to build your docs
-python:
-   install:
-   - packages: "myst_parser"
+build:
+  tools:
+    python: "3.10"
+  commands:
+    - pip install myst-parser
 
 sphinx:
   builder: html
