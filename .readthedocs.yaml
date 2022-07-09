@@ -1,6 +1,11 @@
 version: 2
 
+# Optionally declare the Python requirements required to build your docs
+python:
+   install:
+   - packages: "myst_parser"
+
 sphinx:
   builder: html
-  configuration: conf.py
+  configuration: docs/source/conf.py
   fail_on_warning: true
