@@ -36,4 +36,5 @@ Copyright Vélo Solaire Pour Tous, Mars 2022, sous licence CERN-OHL-S version 2
 ```{toctree}
 documentation
 moyens_necessaires
+plan_general
 ```
