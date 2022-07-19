@@ -6,3 +6,10 @@
 :alt: Coté droit
 :align: center
 ```
+
+## Coté gauche
+
+```{image} img/cote_gauche.png
+:alt: Coté gauche
+:align: center
+```
