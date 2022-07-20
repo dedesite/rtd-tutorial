@@ -16,16 +16,8 @@
 
 ## Avant/Arrière
 
-```{image} img/avant.png
-:alt: avant
-:align: left
-```
-
-
-```{image} img/arriere.png
-:alt: arriere
-:align: right
-```
+<img src="img/avant.png" alt="Vue avant" width="200px">
+<img src="img/arriere.png" alt="Vue arrière" width="200px">
 
 ## Vue de dessus
 
