@@ -62,33 +62,33 @@ rondelle M6 pour la tête de vis ou écrou contre un tube ; inutile côté têt
 
 ### Étape 1
 
-![Vue de l'étape 1](img/assemblage_etape_1.png)
+![Vue de l'étape 1](img/assemblage_etape_1.svg)
 
 ### Étape 2
 
-![Vue de l'étape 2](img/assemblage_etape_2.png)
+![Vue de l'étape 2](img/assemblage_etape_2.svg)
 
 ### Étape 3
 
-![Vue de l'étape 3](img/assemblage_etape_3.png)
+![Vue de l'étape 3](img/assemblage_etape_3.svg)
 
 ### Étape 4
 
 À partir de cette étape, vous pouvez surélever le châssis en le posant sur des caisses, pour travailler plus confortablement.
 
-![Vue de l'étape 4](img/assemblage_etape_4.png)
+![Vue de l'étape 4](img/assemblage_etape_4.svg)
 
 ### Étape 5
 
-![Vue de l'étape 5](img/assemblage_etape_5.png)
+![Vue de l'étape 5](img/assemblage_etape_5.svg)
 
 ### Étape 6
 
-![Vue de l'étape 6](img/assemblage_etape_6.png)
+![Vue de l'étape 6](img/assemblage_etape_6.svg)
 
 ### Étape 7
 
-![Vue de l'étape 7](img/assemblage_etape_7.png)
+![Vue de l'étape 7](img/assemblage_etape_7.svg)
 
 ### Étape 8
 
