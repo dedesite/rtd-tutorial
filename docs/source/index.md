@@ -37,4 +37,12 @@ Copyright Vélo Solaire Pour Tous, Mars 2022, sous licence CERN-OHL-S version 2
 documentation
 moyens_necessaires
 plan_general
+assemblage_chassis_toit
+montage_pieces_cycles
+stabilisateurs
+installation_electricite
+installation_textiles
+sieges
+accessoires
+tests_verifications
 ```

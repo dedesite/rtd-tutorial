@@ -25,3 +25,33 @@
 :alt: dessus
 :align: center
 ```
+
+## Vue de dessous
+
+![Vue de dessous](img/dessous.png)
+
+## Coupe longitudinale
+
+![Vue de dessous](img/coupe_longitudinale.png)
+
+## Coupes transversales
+
+:::{figure-md}
+
+<img src="img/coupe_transversale_avant.png" alt="Coupes transversales vers avant" width="200px">
+
+vers l'avant
+:::
+
+
+:::{figure-md}
+
+<img src="img/coupe_transversale_arriere.png" alt="Coupes transversales vers avant" width="200px">
+
+vers l'arrière
+:::
+
+## Coupe en altimétrie (à travers l’axe du pédalier, vue de dessus)
+
+![Vue de dessous](img/coupe_altimetrique.png)
+
