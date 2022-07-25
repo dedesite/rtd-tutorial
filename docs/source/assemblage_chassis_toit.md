@@ -33,30 +33,21 @@ vis M6 45 mm (QIN45)
 rondelle M6 pour la tête de vis ou écrou contre un tube ; inutile côté tête de vis si celle-ci vient contre une tôle inox (QIN12)
 écrou M6 (QIN09)
 
-```{image} img/assemblage_tube_tole.png
-:alt: Assemblage tube tôle
-:align: right
-```
+![Assemblage tube tôle](img/assemblage_tube_tole.png)
 
 **Assemblage de 2 tubes**
 vis M6 60 mm (QIN60)
 rondelle M6 pour la tête de vis ou écrou contre un tube ; inutile côté tête de vis si celle-ci vient contre une tôle inox (QIN12)
 écrou M6 (QIN09)
 
-```{image} img/assemblage_2_tubes.png
-:alt: Assemblage 2 tubes
-:align: right
-```
+![Assemblage 2 tubes](img/assemblage_2_tubes.png)
 
 **Assemblage de 3 tubes**
 vis M6 90 mm (QIN90)
 rondelle M6 pour la tête de vis ou écrou contre un tube ; inutile côté tête de vis si celle-ci vient contre une tôle inox (QIN12)
 écrou M6 (QIN09)
 
-```{image} img/assemblage_3_tubes.png
-:alt: Assemblage 3 tubes
-:align: right
-```
+![Assemblage 3 tubes](img/assemblage_3_tubes.png)
 
 ## Assemblage de la structure en tubes
 
