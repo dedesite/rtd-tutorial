@@ -5,7 +5,7 @@ L’électrification des véhicules est discutable dans la mesure où il projett
 Par ailleurs, le secteur des batteries avance à grands pas et il est probable que d’ici quelques années, pour avoir du 36V embarqué, nous aurons recours à d’autres technologies ou des systèmes de batteries de secondes vies. Le vhéliotech a été pensé pour pouvoir être compatible avec ces futurs produits/technologies à venir.
 Le moteur BAFANG M400 (TSM03) est un moteur robuste, éprouvé et facilement réparable. Des tutoriels existent, par exemple cette vidéo explique comment le démonter, si toutefois vous aviez besoin de remplacer une des pièces internes : https://www.youtube.com/watch?v=nm6UTwLRays
 Le moteur BAFANG peut se connecter sur presque n’importe quelle batterie 36V (sous réserve des connecteurs) avec 2 fils (+ et -).
-La batterie GREENCELL 36V 14,5 Ah (ELE04) peut se trouver sur au moins 3 sites marchands très facilement. Cette batterie peut être reconditionnée par la société doctibike (changement des cellules, conservation du boîtier et BMS) après un premier cycle de vie.
+La batterie GREENCELL 36V 14,5 Ah (ELE04) peut se trouver sur au moins 3 sites marchands très facilement. Cette batterie peut être reconditionnée par la société doctibike (changement des cellules, conservation du boîtier et BMS) après son premier cycle de vie.
 
 ## Versions « motorisée » et « solaire »
 
