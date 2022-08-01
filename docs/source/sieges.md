@@ -2,7 +2,13 @@
 
 ## Assemblage
 
-Un siège de vhéliotech est constitué de 2 pièces en tubes métalliques soudés (le dossier et l’assise) qui sont assemblées entre elles avec deux équerres. Il faut ensuite mettre en place les bouchons de terminaison des tubes. Cet ensemble sera à monter sur une platine, avec le mécanisme de crantage pour le réglage sur la crémaillère centrale du vhéliotech. A détailler par les 2 Pierres...
+Un siège de vhéliotech est constitué de 2 pièces en tubes métalliques soudés (le dossier et l’assise) qui sont assemblées entre elles avec deux équerres. Il faut ensuite mettre en place les bouchons de terminaison des tubes. Cet ensemble sera à monter sur une platine, avec le mécanisme de crantage pour le réglage sur la crémaillère centrale du vhéliotech. 
+
+### Liste des pièces nécessaires
+
+### Assemblage à blanc
+
+### Serrage et réglages
 
 ![Vue 3D d'un siège sur le chassis](img/vue_3d_siege.png)
 
